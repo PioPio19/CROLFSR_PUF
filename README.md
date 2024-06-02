@@ -3,6 +3,6 @@
 1. Clone this repo by copy this command:
 ```
     // Replace with your network credentials (STATION)
-    git clone https://github.com/mitre/caldera.git
+    git clone https://github.com/PioPio19/CROLFSR_PUF/
     
  ```   
